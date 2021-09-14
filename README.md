@@ -1,4 +1,6 @@
-React-app to generate meme.
+# Meme-Generator
+
+This is basic react app which helps you to create meme.
 
 
 # Getting Started with Create React App
