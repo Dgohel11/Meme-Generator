@@ -1,3 +1,8 @@
+# Meme-Generator
+
+This is basic react app which helps you to create meme.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
